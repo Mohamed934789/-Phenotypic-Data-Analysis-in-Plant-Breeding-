@@ -72,7 +72,7 @@ The dataset included:
 ## 🚀 How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/Mohamed934789/phenotypic-data-analysis.git
+   git clone [https://github.com/Mohamed934789/phenotypic-data-analysis.git](https://github.com/Mohamed934789/-Phenotypic-Data-Analysis-in-Plant-Breeding-/tree/main)
    cd phenotypic-data-analysis
 ## 📌 Future Work
 - Apply statistical tests (ANOVA, t-test) to validate differences.  
