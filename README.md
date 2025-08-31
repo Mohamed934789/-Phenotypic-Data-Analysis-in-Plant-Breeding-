@@ -72,7 +72,7 @@ The dataset included:
 ## 🚀 How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/phenotypic-data-analysis.git
+   git clone https://github.com/Mohamed934789/phenotypic-data-analysis.git
    cd phenotypic-data-analysis
 ## 📌 Future Work
 - Apply statistical tests (ANOVA, t-test) to validate differences.  
@@ -80,6 +80,9 @@ The dataset included:
 - Expand dataset with more replicates and environmental conditions.  
 
 ---
+## 👤 Author
 
-## ✨ Author
-Developed by Mohamed Kassab 
+**M. Kassab**  
+📧 Email: [m.kassab934@gmail.com](mailto:m.kassab934@gmail.com)  
+💼 LinkedIn: [Mohamed Kassab](https://www.linkedin.com/in/mohamed-kassab-b1b0482a1/)
+
